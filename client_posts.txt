@@ -1,0 +1,5 @@
+CLIENT,ITDept,gestun6038,TOP SECRET SERVER 127.0.1.2
+CLIENT,ITSupport,bauglo9659,SECONDCLIENTPOST bob@gmail.com
+CLIENT,InterComms,ostar3492,TOPSECRETPASSWORD
+CLIENT,sbraidley,Password246,Just got a new phone if anyone needs me they can contact me at 07010101010
+CLIENT,ronnie,phucta1391,Just come across a server at 127.3.12.3 I don't think it should be showing personal records.. 

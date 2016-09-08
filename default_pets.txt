@@ -1,0 +1,28 @@
+Cat
+Dog
+Ferret
+Fish
+Bird
+Frog
+Toad
+Gecko
+Gerbill
+Goat
+Guinea Pig
+Hamster
+Hedgehog
+Hermit Crab
+Horse
+Iguana
+Mantis
+Mouse
+Newt
+Pig
+Rabbit
+Rat
+Salamander
+Sheep
+Snake
+Spider
+Turtle
+Chicken
